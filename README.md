@@ -7,7 +7,7 @@ Merhaba, kendi fonksiyonlarımla yaptığım <b>Sesli Asistan</b>'a hoşgeldiniz
 
 Aslında literatüründe basit bir mantığı olan kullanıcıların yüzlerini gülümsetmeyi ve işlerini kolaylaştırmayı amaçlayan bir seslendirme robotu.
 
-Neler Yapabiliyor?
+<h2>Neler Yapabiliyor?</h2>
 - Tanışma sohbeti yapabilir
 - İstediğiniz sözcükleri söyletebilirsiniz (arkadaşlarınızın doğum gününü kutlamak da dahil),
 - Dört işlem
