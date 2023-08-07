@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="archilles, nodejs">
+    <meta name="description" content="Archilles' Assistant">
+    <meta name="author" content="Archilles">
+    
+    <title>Sesli Asistan</title>
+    <link rel="icon" type="png" href="mikr.svg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="fun.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
+  </head>
+<body>
+
+<style>
+  body {
+    margin: 0;
+    background-color: #f8f8fd;
+  }
+  h3 {
+    color: #333;
+    border: 2px dashed #333;
+    padding: 4px;
+  }
+</style>
+
+<center>
+<div class="asistan">
+    <h3 style="font-size:23px; font-family: Arial, Helvetica, sans-serif;">Sesli Asistan</h3>
+    <textarea id="txt2" cols="30" rows="10" placeholder="'Konuş' düğmesine basarak asistanı kullanabilirsiniz."></textarea>
+    <button id="basla" onclick="basla_f()" class="asst-button" title="Mikrofonu konuşmaya başlatır"><i class="fas fa-microphone"></i> Speak</button>
+    <button id="durdur" onclick="durdur_f()" class="asst-button" title="Mikrofonu konuşmaya kapatır"><i class="fas fa-stop"></i> Stop</button>
+    <button id="dinle" onclick="dinle_f()" class="asst-button" title="Metindeki yazıları seslendirir"><i class="fas fa-headphones"></i> Listen</button>
+    <button id="sil" onclick="sil_f()" class="asst-button" title="Metindeki yazıları temizler"><i class="far fa-trash-alt"></i> Temizle</button>
+
+    <p id="cevaplar" style="display: none;"></p>
+  </div>
+</center>
+
+<script src="script.js"></script>
+
+<footer>
+  <div>Copyright &copy; Archilles</div>
+  <div>Version Series: Beta</div>
+  <div><div class="footbaslik">İletişim</div><br>İstek görüş <a href="https://discordapp.com/users/507610032863576064"
+  target="_blank" class="url">Discord</a> üzerinden
+</div>
+
+</footer>
+
+</body>
+</html>

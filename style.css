@@ -1,0 +1,79 @@
+.asistan{
+    width: 300px;
+    margin: 30px 20px;
+    text-align: center;
+  }
+    textarea {
+    width: 100%;
+    height: 200px;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+
+.asst-button{
+    font-size: 16px;
+    width: 32%;
+    height: 40px;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+    margin: 8px 0px -3px 2px;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+
+#basla:hover {
+    background-color: rgb(34, 190, 170);
+    color: white;
+    border: 2px solid rgb(27, 156, 150);
+}
+#durdur:hover {
+    background-color: rgb(211, 69, 69);
+    color: white;
+    border: 2px solid rgb(168, 33, 33);
+}
+#dinle:hover {
+    background-color: rgb(54, 130, 245);
+    color: white;
+    border: 2px solid rgb(38, 96, 184);
+}
+#sil:hover {
+    background-color: rgb(231, 172, 44);
+    color: white;
+    border: 2px solid rgb(196, 144, 34);
+}
+
+
+#cevaplar {
+    background-color: white;
+    padding: 5px;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    padding: 30px;
+    margin-top: 280px;
+
+}
+.footbaslik {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.url{
+    font-weight: bold; color:white; text-decoration: none;
+}
