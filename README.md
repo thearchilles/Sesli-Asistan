@@ -5,10 +5,14 @@ Merhaba, kendi fonksiyonlarımla yaptığım <b>Sesli Asistan</b>'a hoşgeldiniz
 Öncelikle test etmek için <a href="http://arcworld.tr.ht/Sesli_Asistan/">tıklayabilirsiniz</a>
 (Mikrofonu algılamazsa farklı tarayıcılardan giriniz veya mobilden)
 
-Aslında literatüründe basit bir mantığı olan kullanıcıların yüzlerini gülümsetmeyi ve işlerini kolaylaştırmayı amaçlayan seslendirme robotu.
+Aslında literatüründe basit bir mantığı olan kullanıcıların yüzlerini gülümsetmeyi ve işlerini kolaylaştırmayı amaçlayan bir seslendirme robotu.
 
 Neler Yapabiliyor?
--
+- Tanışma sohbeti yapabilir
+- İstediğiniz sözcükleri söyletebilirsiniz (arkadaşlarınızın doğum gününü kutlamak da dahil),
+- Dört işlem
+- Tarihi, günü, saati söyleyebilir
+- 
 
 <h2>Yorumlarım</h2>
 Şu an en temel hali servis edilmekte, konuya ilgisi olan kullanıcıların fikirlerine ve tavsiyelerine açığım benimle <a href="https://discordapp.com/users/507610032863576064">Discord</a> üzerinden iletişime geçebilirsiniz. İlerleyen günlerde veritabanını da işin içerisine kattığım zaman şahane bir asistan olacağından eminim. Hedefim yüzlerce veri kaynağı API'sine ulaştıktan sonra içerisinden en doğru aramayı gerçekleştirip sonucu yansıtmak, onlarca yapay zeka olsa da kendimi geliştirebilmek için yapay zeka dünyasına kendimi katmış bulundum.
