@@ -1,4 +1,4 @@
-# Sesli_Asistan
+# Sesli Asistan
 
 Merhaba, <b>JavaScript</b> ile kendi fonksiyonlarımla yaptığım sistemi tanıtacağım.
 
