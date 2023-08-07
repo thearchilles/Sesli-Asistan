@@ -14,7 +14,7 @@ Aslında literatüründe basit bir mantığı olan kullanıcıların yüzlerini 
 - Tarihi, günü, saati söyleyebilir<br>
 - <br>
 
-<h2>Yorumlarım</h2>
+<h2>Düşüncelerim</h2>
 Şu an en temel hali servis edilmekte, konuya ilgisi olan kullanıcıların fikirlerine ve tavsiyelerine açığım benimle <a href="https://discordapp.com/users/507610032863576064">Discord</a> üzerinden iletişime geçebilirsiniz. İlerleyen günlerde veritabanını da işin içerisine kattığım zaman şahane bir asistan olacağından eminim. Hedefim yüzlerce veri kaynağı API'sine ulaştıktan sonra içerisinden en doğru aramayı gerçekleştirip sonucu yansıtmak, onlarca yapay zeka olsa da kendimi geliştirebilmek için yapay zeka dünyasına kendimi katmış bulundum.
 
 ![image](https://github.com/thearchilles/Sesli_Asistan/assets/77891732/e19fd42a-ea73-43a3-a535-b3d682a31d7d)
