@@ -61,6 +61,9 @@ speech.onresult = async(event) => {
   seslendir(txt2.value)
   }
 */
+
+  if(["*"].some(a => cikti.includes(a))) return seslendir("Sana geri iade ediyorum")
+
   if(["geldim"].some(a => cikti.includes(a))) return seslendir("Hoş geldiniz. Gününüz nasıl geçti? veya bugün Allah için neler yaptınız")
 
   if(["kimim","tanışıyor muyuz"].some(a => cikti.includes(a))) return seslendir("Henüz tanışmadık. Benim adım "+botadi+", Peki sizin adınız nedir?")
@@ -121,8 +124,6 @@ if(["yakışıklı mıyım"].some(a => cikti.includes(a))) return seslendir("gü
 if(["güzel miyim"].some(a => cikti.includes(a))) return seslendir("yakışıklısın")
 
 if([" anlat"].some(a => cikti.includes(a)) && ![" anlatacağım"].some(a => cikti.includes(a))) return seslendir("bilmediğim konu hakkında bilgi vermek yanlış olur")
-
-if(["*"].some(a => cikti.includes(a))) return seslendir("sana geri iade ediyorum")
 
 if(["kaç yaşındasın","yaşın kaç"].some(a => cikti.includes(a))) return seslendir("Benim gibilerin yaşı olmaz")
 
